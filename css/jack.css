@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    background-color: #615669;
+    font-size: 20px;
+    line-height: 35px;
+    border: none;
+    padding-block-end: 35px;
+}
+
+header {
+    background-image: url("../img/oogie-moon.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 24px;
+    padding-block-end: 24px;
+}
+
+h1, h2 {
+    font-family: 'Rubik', sans-serif;
+}
+
+header h1 {
+    color: #f1ec81;
+    font-size: 55px;
+    -webkit-text-stroke: 3px #615669;
+}
+
+header img {
+    background-color: transparent;
+    border-radius: 170px;
+    border: 9px solid #615669;
+    width: 300px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main img {
+    max-width: 100%;
+}
+
+h2 {
+    font-size: 38px;
+    color: #e4beff;
+    -webkit-text-stroke: 2px #26202a;
+    text-align: center;
+}
+
+p {
+    color: antiquewhite;
+    text-align: justify;
+    margin: 0;
+    padding-block-end: 35px;
+}
+
+a {
+    color: antiquewhite;
+}
+a:hover {
+    color: #f1ec81;
+}
+
+footer {
+    background-color: #26202a;
+    text-align: center;
+    padding: 60px;
+}
+
+footer p{
+    margin: 0;
+    text-align: center;
+}
+
+ul {
+
+}
